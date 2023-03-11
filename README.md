@@ -7,3 +7,8 @@ Excel file names: M(x)P(x) - M stands for "Module", P stands for "Position"
 
 Limitation: 
 The dataset is collected for a certain adaptive facade design and occupants' positions and view directions which could not be applicable to other case studies. 
+
+
+## Published Article
+Targeting modular adaptive façade personalization in a shared office space using fuzzy logic and genetic optimization
+https://doi.org/10.1016/j.jobe.2023.106118
